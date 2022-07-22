@@ -51,6 +51,7 @@ def check_permissions(permission, payload):
     raise Exception('Not Implemented')
 
 '''
+
 @TODO implement verify_decode_jwt(token) method
     @INPUTS
         token: a json web token (string)
